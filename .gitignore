@@ -1,0 +1,6 @@
+# Project exclude paths
+/.build/repositories/
+/.build/workspace-state.json
+
+# Swift Package Manager Build Directory
+/.build/
